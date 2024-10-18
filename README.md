@@ -41,7 +41,7 @@ git clone https://github.com/abhirajadhikary06/Netflix-Movie-Duration-Trends.git
 
 Make sure you have the following installed:
 - **Python** (version 3.6 or higher)
-- Libraries: `pandas`, `matplotlib`, `seaborn`, `plotly`, `numpy`
+- Libraries: `pandas`, `matplotlib`, `seaborn`, `plotly`, `numpy`, `dash`
 
 Install dependencies using:
 
